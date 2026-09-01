@@ -12,10 +12,6 @@ for path_parameter in path_component :
 
 print(path_component)
 
-        
-
-
-
 endpoint = method + " " + path
 
 if (endpoint == "GET /students") :
